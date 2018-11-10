@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1511962093 source:c:\users\vazgen.sargsyan\desktop\armenian national anthem startup\main.cpp
+	<iostream>
+	<iomanip>
+	<Windows.h>
+	<libgen.h>
+	<cstdlib>
+
+1512136071 source:d:\c plus plus\cpp\armenian national anthem startup\main.cpp
+	"Audio.h"
+	"Draw.h"
+	"Startup.h"
+
+1512134250 d:\c plus plus\cpp\armenian national anthem startup\include\audio.h
+
+1512134305 source:d:\c plus plus\cpp\armenian national anthem startup\src\audio.cpp
+	"Audio.h"
+	<windows.h>
+
+1512135794 d:\c plus plus\cpp\armenian national anthem startup\include\draw.h
+	<windows.h>
+	<iomanip>
+	<iostream>
+
+1512135117 d:\c plus plus\cpp\armenian national anthem startup\include\startup.h
+	<iostream>
+	<windows.h>
+	<string>
+	<libgen.h>
+
+1512136283 source:d:\c plus plus\cpp\armenian national anthem startup\src\draw.cpp
+	"Draw.h"
+
+1512135137 source:d:\c plus plus\cpp\armenian national anthem startup\src\startup.cpp
+	"Startup.h"
+
+1541876327 source:c:\users\vazke\documents\cpp\programs\armenian national anthem startup\main.cpp
+	"Audio.h"
+	"Draw.h"
+	"Startup.h"
+
+1538913607 c:\users\vazke\documents\cpp\programs\armenian national anthem startup\include\audio.h
+
+1538913607 c:\users\vazke\documents\cpp\programs\armenian national anthem startup\include\draw.h
+	<windows.h>
+	<iomanip>
+	<iostream>
+
+1538913607 c:\users\vazke\documents\cpp\programs\armenian national anthem startup\include\startup.h
+	<iostream>
+	<windows.h>
+	<string>
+	<libgen.h>
+
+1538913607 source:c:\users\vazke\documents\cpp\programs\armenian national anthem startup\src\audio.cpp
+	"Audio.h"
+	<windows.h>
+
+1538913607 source:c:\users\vazke\documents\cpp\programs\armenian national anthem startup\src\draw.cpp
+	"Draw.h"
+
+1538913607 source:c:\users\vazke\documents\cpp\programs\armenian national anthem startup\src\startup.cpp
+	"Startup.h"
+
